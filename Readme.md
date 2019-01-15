@@ -429,8 +429,7 @@ fig.show()
 ```
 
 ```
-C:\Users\Ahmed\Anaconda3\envs\PythonData\lib\site-packages\matplotlib\figure.py:397: UserWarning: matplotlib is currently using a non-GUI backend, so cannot show the figure
-  "matplotlib is currently using a non-GUI backend, "
+
 ```
 
 ![png](output_13_1.png)
